@@ -1,6 +1,6 @@
 # Isekai
 
-**Isekai** is a mod that implements isekai reincarnation mechanics in Minecraft. 
+**Isekai** is a mod that brings otherworldly reincarnation mechanics into Minecraft. 
 
 ## Purpose
 - The player begins in a hardcore environment, and is shocked to find that, upon death, they have been transported to another world instead of being booted to the title screen.
