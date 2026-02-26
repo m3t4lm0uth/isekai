@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "m3t4lm0uth.isekai.mixin.client",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"ExampleClientMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
